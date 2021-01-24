@@ -4,10 +4,16 @@ Agent.btz MALWARE BINARY
 Screenshots in issue3: https://github.com/loneicewolf/Agent.btz/issues/3
 +Docs
 
+Framework [soon done]
+
+
 Malware samples (binary) in Agent.Btz/Agents/folder
 
-mimics some other mals out there like fanny.bmp, and flame, etc.
 
+## Agent.btz:
+  #### mimics some other mals out there like fanny.bmp, and flame, etc.
+  #### is a worm, probably related to gauss.
+  
 
 Agent.BTZ, also named Autorun,[1][2] is a computer worm that infects USB flash drives with spyware. A variant of the SillyFDC worm,[3] it was used in a massive 2008 cyberattack on the US military. - https://en.wikipedia.org/wiki/Agent.BTZ
 
