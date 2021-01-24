@@ -11,7 +11,7 @@ Wiki: https://github.com/loneicewolf/Agent.btz/wiki/PAGE_INFO
 Note: the samples are dangerous. Use at your own risk.
 
 
-### Some of these (like fanny, and of course stuxnet, among many others) are avail. Online, but I chose to upload those who I couldn't find. (and still realyl cant)
+### Some of these (like fanny, and of course stuxnet, among many others) are avail. Online, but I chose to upload those who I couldn't find. (and still really cant)
 Saying this as I did on fanny.bmp, if someone do indeed **have more / same samples** any contribution is welcomed!
 
 
