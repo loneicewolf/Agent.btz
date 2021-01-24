@@ -13,3 +13,11 @@ https://securelist.com/agent-btz-a-source-of-inspiration/58551/
 
 Note: the samples are dangerous. Use at your own risk.
 
+
+### Some of these (like fanny, and of course stuxnet, among many others) are avail. Online, but I chose to upload those who I couldn't find. (and still realyl cant)
+Saying this as I did on fanny.bmp, if someone do indeed **have more / same samples** any contribution is welcomed!
+
+
+Feel free to open any issue/for discussion/comments - questions or additional details.
+
+As I said in the video, my laptop did nearly die, so it wasn't the "Best" poc video. But hopefully it's good enough.
