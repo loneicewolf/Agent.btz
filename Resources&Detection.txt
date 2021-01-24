@@ -1,0 +1,8 @@
+https://securelist.com/agent-btz-a-source-of-inspiration/58551/
+https://github.com/Neo23x0/signature-base/blob/37bb48f77bce63b4f4942886e3117aede03cf407/yara/apt_agent_btz.yar
+https://www.virustotal.com/gui/file/61cf4ce2dd1875ebb0bd60465c4f4b5f1f9945e59178be9935e4cdf548b06dfb/community
+https://www.lastline.com/labsblog/turla-apt-group-gives-their-kernel-exploit-a-makeover/
+https://www.f-secure.com/v-descs/worm_w32_agent_btz.shtml
+https://www.intezer.com/blog/research/new-variants-of-agent-btz-comrat-found-part-2/
+https://www.welivesecurity.com/2020/05/26/agentbtz-comratv4-ten-year-journey/
+
