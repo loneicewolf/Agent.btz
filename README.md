@@ -1,6 +1,11 @@
 # Agent.btz
 Agent.btz MALWARE BINARY
 
+Screenshots in issue3: https://github.com/loneicewolf/Agent.btz/issues/3
++Docs
+
+Malware samples (binary) in Agent.Btz/Agents/folder
+
 mimics some other mals out there like fanny.bmp, and flame, etc.
 
 
