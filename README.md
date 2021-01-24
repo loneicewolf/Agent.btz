@@ -10,6 +10,10 @@ Agent.BTZ, also named Autorun,[1][2] is a computer worm that infects USB flash d
 https://en.wikipedia.org/wiki/Agent.BTZ
 https://securelist.com/agent-btz-a-source-of-inspiration/58551/
 
+https://github.com/Neo23x0/signature-base/blob/37bb48f77bce63b4f4942886e3117aede03cf407/yara/apt_waterbug.yar
+https://www.virustotal.com/gui/file/0e57d8249bfada0083a0fcc8f38ca0c9e522ee57a804ea1d60362753382d8249/detection
+
+
 
 Note: the samples are dangerous. Use at your own risk.
 
