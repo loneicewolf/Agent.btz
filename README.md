@@ -1,6 +1,8 @@
 # Agent.btz
 Agent.btz MALWARE BINARY
 
+        This will be related to this later on: https://github.com/loneicewolf/HDD-Firmware-RE
+
 Screenshots in issue3: https://github.com/loneicewolf/Agent.btz/issues/3
 +Docs
 
