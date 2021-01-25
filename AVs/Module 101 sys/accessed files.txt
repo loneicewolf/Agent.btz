@@ -1,0 +1,33 @@
+C:\Users\Rebecca\AppData\Local\Temp\Module 101.sys.dll.manifest
+C:\Users\Rebecca\AppData\Local\Temp\Module 101.sys.dll
+C:\Users\Rebecca\AppData\Local\Temp\Module 101.sys.dll.123.Manifest
+C:\Users\Rebecca\AppData\Local\Temp\Module 101.sys.dll.124.Manifest
+C:\Users\Rebecca\AppData\Local\Temp\Module 101.sys.dll.2.Manifest
+C:\Windows\System32\rundll32.exe
+C:\Users\Rebecca\AppData\Local\Temp\ntoskrnl.exe
+C:\Windows\System32\ntoskrnl.exe
+C:\Users\Rebecca\AppData\Local\Temp\PSHED.dll
+C:\Windows\System32\PSHED.DLL
+C:\Users\Rebecca\AppData\Local\Temp\HAL.dll
+C:\Windows\System32\hal.dll
+C:\Users\Rebecca\AppData\Local\Temp\KDCOM.dll
+C:\Windows\System32\kdcom.dll
+C:\Users\Rebecca\AppData\Local\Temp\BOOTVID.dll
+C:\Windows\System32\BOOTVID.DLL
+C:\Users\Rebecca\AppData\Local\Temp\CLFS.SYS
+C:\Windows\System32\clfs.sys
+C:\Windows\System32\ntoskrnl.DLL
+C:\Windows\system\ntoskrnl.DLL
+C:\Windows\ntoskrnl.DLL
+C:\Users\Rebecca\AppData\Local\Temp\ntoskrnl.DLL
+C:\Python27\ntoskrnl.DLL
+C:\Python27\Scripts\ntoskrnl.DLL
+C:\Windows\System32\wbem\ntoskrnl.DLL
+C:\Windows\System32\WindowsPowerShell\v1.0\ntoskrnl.DLL
+C:\ProgramData\chocolatey\bin\ntoskrnl.DLL
+C:\Users\Rebecca\AppData\Local\Programs\Python\Python38-32\Scripts\ntoskrnl.DLL
+C:\Users\Rebecca\AppData\Local\Programs\Python\Python38-32\ntoskrnl.DLL
+C:\Users\Rebecca\AppData\Roaming\Python\Scripts\ntoskrnl.DLL
+C:\Windows\System32\en-US\KERNELBASE.dll.mui
+C:\Windows\System32\en-US\rundll32.exe.mui
+C:\Windows\Fonts\staticcache.dat

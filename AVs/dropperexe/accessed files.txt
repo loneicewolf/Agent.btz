@@ -1,0 +1,8 @@
+C:\Users\Rebecca\AppData\Local\Temp\OLEACCRC.DLL
+C:\Windows\System32\oleaccrc.dll
+\??\900FF1\
+C:\Users\Rebecca\AppData\Local\Temp\%SystemRoot%\twain_64
+C:\Windows\twain_64
+C:\Windows\twain_64\twain64.sys
+\??\900FF1\service
+\??\900FF1

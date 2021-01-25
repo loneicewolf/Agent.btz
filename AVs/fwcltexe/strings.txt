@@ -1,0 +1,11 @@
+!This program cannot be run in DOS mode.
+RichI
+.text
+Sleep
+GetLastError
+DeleteFileA
+SetFileAttributesA
+lstrlenA
+GetModuleFileNameA
+GetCommandLineA
+KERNEL32.dll

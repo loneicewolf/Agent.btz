@@ -1,0 +1,8 @@
+1.Name "atmarph.sys" Path "C:\Windows\System32\drivers\atmarph.sys" MD5 "9c944bd7a0af0ebd8a52f16d2e09f4ae"
+
+2.Name "wmmini.swp" Path "C:\Windows\System32\wmmini.swp" MD5 "172af72dae952b6742c9f0106bef5da4"
+
+3.Name "winview.ocx" Path "C:\Windows\System32\winview.ocx" MD5 "6093188cf2ca8e90c2ffe307903963a7"
+
+4.Name "wowmgr.exe" Path "C:\Windows\System32\wowmgr.exe" MD5 "8fd6f3d4b445fc1fa0108f76284380b8"
+

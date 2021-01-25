@@ -1,0 +1,2 @@
+1.Name "mpdstate.bin" Path "C:\Windows\System32\mpdstate.bin" MD5 "d2486c89588dea9e71e3b3eec410047e"
+

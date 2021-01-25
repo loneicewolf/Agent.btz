@@ -1,0 +1,40 @@
+C:\Windows\sysnative\MSCOREE.DLL.local
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscoreei.dll
+C:\Windows\Microsoft.NET\Framework64\*
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\clr.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\mscorwks.dll
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll
+C:\Users\Louise\AppData\Local\Temp\LightNeuronX0.exe.config
+C:\Users\Louise\AppData\Local\Temp\LightNeuronX0.exe
+C:\Windows\sysnative\api-ms-win-appmodel-runtime-l1-1-2.dll
+C:\Windows\sysnative\api-ms-win-appmodel-runtime-l1-1-0.dll
+C:\Users\Louise\AppData\Local\Temp\LightNeuronX0.exe.Local\
+C:\Windows\winsxs\amd64_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_88e41e092fab0294
+C:\Windows\winsxs\amd64_microsoft.vc80.crt_1fc8b3b9a1e18e3b_8.0.50727.6195_none_88e41e092fab0294\msvcr80.dll
+C:\Windows
+C:\Windows\winsxs
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CONFIG\machine.config
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\fusion.localgac
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CONFIG\security.config
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CONFIG\security.config.cch
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CONFIG\enterprisesec.config
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CONFIG\enterprisesec.config.cch
+C:\Users\Louise\AppData\Roaming\Microsoft\CLR Security Config\v2.0.50727.312\64bit\security.config
+C:\Users\Louise\AppData\Roaming\Microsoft\CLR Security Config\v2.0.50727.312\64bit\security.config.cch
+C:\Windows\assembly\NativeImages_v2.0.50727_64\index37c.dat
+C:\Windows\assembly\NativeImages_v2.0.50727_64\mscorlib\a83e2c5a3237fc549e8ccb54585ff2c1\mscorlib.ni.dll
+C:\Windows\assembly\GAC_64\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.INI
+C:\Users
+C:\Users\Louise
+C:\Users\Louise\AppData
+C:\Users\Louise\AppData\Local
+C:\Users\Louise\AppData\Local\Temp
+C:\Windows\sysnative\l_intl.nls
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\ole32.dll
+\Device\KsecDD
+C:\Users\Louise\AppData\Local\Temp\LightNeuronX0.INI
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\mscorjit.dll
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CONFIG\security.config.cch.5004.33811359
+C:\Windows\Microsoft.NET\Framework64\v2.0.50727\CONFIG\enterprisesec.config.cch.5004.33811359
+C:\Users\Louise\AppData\Roaming\Microsoft\CLR Security Config\v2.0.50727.312\64bit\security.config.cch.5004.33811406
