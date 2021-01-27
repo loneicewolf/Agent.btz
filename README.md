@@ -4,8 +4,8 @@ Agent.btz MALWARE BINARY
         This will be related to this later on: https://github.com/loneicewolf/HDD-Firmware-RE
 
 
-# POC VIDEO PROVIDED: (YT LINK)  https://www.youtube.com/watch?v=NVZMCKh-yjM
-# Windows XP (VM)
+#### POC VIDEO PROVIDED: (YT LINK)  https://www.youtube.com/watch?v=NVZMCKh-yjM
+
 
 
 Screenshots in issue3: https://github.com/loneicewolf/Agent.btz/issues/3
