@@ -13,7 +13,7 @@ void __fastcall FA_TMP_FUNC(int param_1)
   uint local_14;
   char *local_10;
   LPSTR local_c;
-  uint local_8;
+  uint local_81:
   
   local_c = (LPSTR)(param_1 + 0x114);
   memset(local_c,0,0x104);
