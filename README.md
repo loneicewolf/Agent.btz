@@ -2,7 +2,7 @@
 Agent.btz MALWARE BINARY
 
         This will be related to this later on: https://github.com/loneicewolf/HDD-Firmware-RE
-
+See #3 (Issues) for more Pictures.
 
 #### POC VIDEO PROVIDED: (YT LINK)  https://www.youtube.com/watch?v=NVZMCKh-yjM
 
